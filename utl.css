@@ -1,0 +1,22 @@
+.text-center{
+    text-align: center;
+    
+}
+    .big-red{
+        background: red;
+    }
+
+    .mx-ayto{
+        margin- auto;
+    }
+
+    .flex {
+     display:flex;   
+    }
+    flex-col{
+        felx-derection: column;
+    }
+
+     .items-center{
+        align-items: center;
+     }
